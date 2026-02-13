@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: [Pungkookid GitHub](https://github.com/Pungkookid)
+- 🔭 I’m currently working on: [Pungkookid](https://github.com/Pungkookid)
 - 🌱 I’m currently learning: **Java, C#, Python, React**
 - 💡 Passionate about building projects and improving coding skills
 - ⚡ Fun fact: I love exploring new tech & solving problems
