@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: [My GitHub Profile](https://github.com/Pungkookid)
+- 🔭 I’m currently working on: [Pungkookid GitHub](https://github.com/Pungkookid)
 - 🌱 I’m currently learning: **Java, C#, Python, React**
 - 💡 Passionate about building projects and improving coding skills
 - ⚡ Fun fact: I love exploring new tech & solving problems
@@ -20,12 +20,22 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pungkookid&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pungkookid&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saifur-me&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifur-me&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌐 Connect with me
-- 📧 Email: [saifurrohman.me@gmail.com](mailto:saifurrohman.me@gmail.com)
-- 💼 LinkedIn: [Ahmad Saifurrohman](https://linkedin.com/)
+<p>
+  <a href="mailto:saifurrohman.me@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/ahmadsa0402/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! Let's build something awesome together.*
