@@ -9,16 +9,21 @@
 - 💡 Passionate about building projects and improving coding skills
 - ⚡ Fun fact: I love exploring new tech & solving problems
 
+---
+
 ### 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,cs,python,react,git,github,vscode" />
 </p>
 
+---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saifur-me&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifur-me&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saifur-me&theme=tokyonight&no-frame=true" />
 </p>
+
+---
 
 ### 🌐 Connect with me
 <p>
@@ -29,5 +34,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
+
+---
 
 ⭐ *Thanks for visiting my profile! Let's build something awesome together.*
