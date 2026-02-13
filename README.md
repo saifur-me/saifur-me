@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifur-me&theme=tokyonight&no-frame=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifur-me&theme=tokyonight" />
 </p>
 
 ---
