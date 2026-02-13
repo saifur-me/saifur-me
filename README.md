@@ -13,7 +13,7 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://ghchart.rshah.org/saifur-me" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,react,git,github,vscode" />
 </p>
 
 ---
