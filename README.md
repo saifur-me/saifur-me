@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ahmad Saifur Rohman</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Saifurrohman</h1>
 <h3 align="center">Aspiring Software Developer | Lifelong Learner 🚀</h3>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: **https://github.com/Pungkookid**
+- 🔭 I’m currently working on: [My GitHub Profile](https://github.com/Pungkookid)
 - 🌱 I’m currently learning: **Java, C#, Python, React**
 - 💡 Passionate about building projects and improving coding skills
 - ⚡ Fun fact: I love exploring new tech & solving problems
@@ -27,15 +27,5 @@
 ---
 
 ### 🌐 Connect with me
-- 📧 Email: **saifurrohman.me@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/ahmadsa0402/**
-
----
-
-⭐ *Thanks for visiting my profile! Let's build something awesome together.*
-
-
-<!---
-saifur-me/saifur-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📧 Email: [saifurrohman.me@gmail.com](mailto:saifurrohman.me@gmail.com)
+- 💼 LinkedIn: [Ahmad Saifurrohman](https://linkedin.com/)
