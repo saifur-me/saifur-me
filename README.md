@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahmad Saifurrohman</h1>
-<h3 align="center">Coding • Learning • Growing 🚀</h3>
-
----
+<h1 align="center">
+  Hi 👋, I'm Ahmad Saifurrohman<br>
+  <sub>Coding • Learning • Growing 🚀</sub>
+</h1>
 
 ### 🚀 About Me
 - 🔭 I’m currently working on: [Pungkook Grobogan](https://github.com/Pungkookid)
@@ -9,21 +9,15 @@
 - 💡 Passionate about building projects and improving coding skills
 - ⚡ Fun fact: I love exploring new tech & solving problems
 
----
-
 ### 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,cs,python,react,git,github,vscode" />
 </p>
 
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifur-me&theme=tokyonight" />
 </p>
-
----
 
 ### 🌐 Connect with me
 <p>
