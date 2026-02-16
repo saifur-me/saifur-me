@@ -27,12 +27,7 @@
 
 ### 🌐 Connect with me
 <p>
-  <a href="mailto:saifurrohman.me@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/ahmadsa0402/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
+  <a href="mailto:saifurrohman.me@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a><a href="https://linkedin.com/in/ahmadsa0402/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 </p>
 
 ---
