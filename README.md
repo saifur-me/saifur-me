@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Saifurrohman</h1>
-<h3 align="center">Aspiring Software Developer | Lifelong Learner 🚀</h3>
+<h3 align="center">Coding • Learning • Growing 🚀</h3>
 
 ---
 
