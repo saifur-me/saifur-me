@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on: [Pungkook Grobogan](https://github.com/Pungkookid)
 - 🌱 I’m currently learning: **Java, C#, Python, React**
 - 💡 Passionate about building projects and improving coding skills
-- ⚡ Fun fact: I love exploring new tech & solving problems
+- ⚡ I love exploring new tech & solving problems
 
 ### 🛠 Tech Stack
 <p>
