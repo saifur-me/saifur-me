@@ -4,7 +4,7 @@
 </h1>
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: [Pungkook Grobogan](https://github.com/Pungkookid)
+- 🔭 I’m currently working on: [Pungkook Grobogan]()
 - 🌱 I’m currently learning: **Java, C#, Python, React**
 - 💡 Passionate about building projects and improving coding skills
 - ⚡ I love exploring new tech & solving problems
